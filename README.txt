@@ -1,0 +1,1 @@
+This is Git Branching Assignments 2 which contains three branches html-assignments,css-assignments,js-assignments.
